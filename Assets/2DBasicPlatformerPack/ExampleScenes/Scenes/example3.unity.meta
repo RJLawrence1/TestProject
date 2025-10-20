@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5d7f092219f9b074f8b0d3bb32877058
+timeCreated: 1517845920
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110887
+  packageName: 2D Basic Platformer Pack
+  packageVersion: 1.0
+  assetPath: Assets/2DBasicPlatformerPack/ExampleScenes/Scenes/example3.unity
+  uploadId: 228360

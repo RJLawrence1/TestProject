@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 251d990ffb381f3448f17178f1d3c437
+timeCreated: 1517853047
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110887
+  packageName: 2D Basic Platformer Pack
+  packageVersion: 1.0
+  assetPath: Assets/2DBasicPlatformerPack/ExampleScenes/Animations/Coin.controller
+  uploadId: 228360
